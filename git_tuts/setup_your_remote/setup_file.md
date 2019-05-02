@@ -10,5 +10,5 @@ If you are not github user then click on sign up and create your account or if y
 
 you will come up with the following screen :-
 
-![login screen] (https://github.com/shivani-tomar)
+![login screen] (https://github.com/shivani-tomar:)
 
